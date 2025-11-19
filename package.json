@@ -1,0 +1,32 @@
+{
+  "name": "krasnodar-clinic-finder",
+  "version": "1.0.0",
+  "description": "Приложение для поиска лучших клиник Краснодара по отзывам пациентов",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "clinic",
+    "medical",
+    "reviews",
+    "krasnodar",
+    "healthcare"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "framer-motion": "^10.16.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.0",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.32",
+    "tailwindcss": "^3.3.6",
+    "vite": "^5.0.7"
+  }
+}
